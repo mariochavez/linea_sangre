@@ -2,6 +2,8 @@
 
 Línea de sangre es un proyecto de Ruby on Rails que sirve como ejemplo para el libro [*Aprendiendo Ruby on Rails*](http://www.railsenespanol.co)
 
+<img src="https://cloud.githubusercontent.com/assets/59967/6759115/408f1030-cf03-11e4-87e7-490b570bbaf8.jpg" align="center" width="350" alt="Aprendiendo Ruby on Rails" >
+
 Things you may want to cover:
 
 * Ruby version
